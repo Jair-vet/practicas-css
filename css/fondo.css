@@ -1,0 +1,12 @@
+body{
+    /* background:black; */
+    /* background: url('img/img-portada.jpeg'); */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: contain; */
+    /* background-attachment: scroll;  // Para bajar la pagina */
+    /* background-attachment:fixed;  La imagen no se mueve */
+    /* background-position: center center; */
+    background: url('img/y-so-serious.png') repeat fixed ;
+}

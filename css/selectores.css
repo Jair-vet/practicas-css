@@ -1,0 +1,46 @@
+/* Hola mundo */
+
+/* * {  Selector universal 
+    color:rojo;
+} 
+*/
+body {
+    background-color:turquoise;
+}
+
+h1, h2, h3, h4, h5 {
+    color:saddlebrown;
+    text-align: center;
+}
+
+/* div article p {       
+    font-size: 12px;
+    color:slategray;
+} */
+/* Solo toma el div y p no importa lo demas */
+div > p {
+    font-size:20px;
+}
+
+article {
+    font-size: 16px;
+    color:black;
+}
+
+p a {
+    color:springgreen;
+}
+
+.grande{
+    font-size:15px;
+}
+
+#grande {
+    font-size: 28px;
+}
+
+/* input[type] {} */
+
+/* input[type="text"]{} */
+
+
