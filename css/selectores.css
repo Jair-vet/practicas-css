@@ -1,46 +1,22 @@
-/* Hola mundo */
-
-/* * {  Selector universal 
-    color:rojo;
-} 
-*/
 body {
-    background-color:turquoise;
-}
+  background: #1b3d82;
+  font-family: Arial; }
 
-h1, h2, h3, h4, h5 {
-    color:saddlebrown;
-    text-align: center;
-}
+.articulo {
+  background: #e9f1f7;
+  width: 500px;
+  padding: 20px; }
+  .articulo .titulo {
+    color: #f9a03f; }
+  .articulo .autor {
+    color: #4d5061; }
+  .articulo div {
+    text-align: center; }
+    .articulo div a {
+      text-decoration: none;
+      font-size: 25px;
+      color: #f9a03f; }
+      .articulo div a:hover {
+        text-decoration: underline; }
 
-/* div article p {       
-    font-size: 12px;
-    color:slategray;
-} */
-/* Solo toma el div y p no importa lo demas */
-div > p {
-    font-size:20px;
-}
-
-article {
-    font-size: 16px;
-    color:black;
-}
-
-p a {
-    color:springgreen;
-}
-
-.grande{
-    font-size:15px;
-}
-
-#grande {
-    font-size: 28px;
-}
-
-/* input[type] {} */
-
-/* input[type="text"]{} */
-
-
+/*# sourceMappingURL=selectores.css.map */

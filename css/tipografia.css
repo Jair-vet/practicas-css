@@ -1,6 +1,5 @@
 body {
-    background-color: navajowhite;
-	font-family: Helvetica, Arial;
+	font-family: sans-serif, Helvetica, Arial;
 }
 
 h1 {
@@ -15,20 +14,7 @@ h1 {
 	text-transform:uppercase;
 	letter-spacing: 10px;
 }
-h3 {
-	font-family: "Times New Roman", Arial;
-	/* font-style: normal | italic;*/
-	font-size:20px;
-	font-style: italic;
-	font-weight: bold;
-	color:#4281ed;
-	text-align: center;
-	text-decoration: underline;
-	text-transform:uppercase;
-	letter-spacing: 10px;
-}
 
 p {
 	line-height: 30px;
-    text-align: justify;
 }
